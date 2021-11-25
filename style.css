@@ -15,29 +15,31 @@ ul{
   list-style:  none;
   display: inline;
 }
-li{
-display: inline;
 
-}
 
-  a{
+
+a{
    text-decoration: none;
    color: black;
    font-size: 20px;
    transition: font-size 0.6s ease;
-  }
+}
 
-  a:hover{
+
+a:hover{
     font-size:  22px;
     color:  red;
-  }
+}
 
 
-  img{
+
+img{
     width: 200px;  
-    }
+}
 
-  button{
+
+
+button{
     color: orange;
     border-radius: 5px;
     border-top: 1px black;
@@ -51,7 +53,7 @@ display: inline;
 
 
 
-  .part1{
+  .cards{
      background-color: floralwhite;
      width: 800px;
      border-top: 1px black;
@@ -62,11 +64,13 @@ display: inline;
      box-shadow: 0px 10px 30px;
        }
 
-.part1 i {
-  margin: 0 50%;
-}
 
-  .part2{
+  .cards i {
+  margin: 0 50%;
+       }
+
+
+  .footer{
      
      width: 800px;
      margin: 40px auto;
@@ -79,3 +83,4 @@ display: inline;
 
 
  
+
